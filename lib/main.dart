@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-
 import 'package:simple_taps/screens/home.dart';
 import 'package:simple_taps/themes/themes.dart';
 
